@@ -1,0 +1,144 @@
+{
+	"BUILD_DIR" : "/Users/filberthamijoyo/Downloads/qtrvsim/build/src/cli/cli_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/filberthamijoyo/Downloads/qtrvsim/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/filberthamijoyo/Downloads/qtrvsim/build/src/cli",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/filberthamijoyo/Downloads/qtrvsim/src/cli",
+	"CMAKE_EXECUTABLE" : "/opt/homebrew/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/Users/filberthamijoyo/Downloads/qtrvsim/src/cli/CMakeLists.txt",
+		"/Users/filberthamijoyo/Downloads/qtrvsim/cmake/TestingTools.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "/Users/filberthamijoyo/Downloads/qtrvsim",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "/Users/filberthamijoyo/Downloads/qtrvsim/build/src/cli/cli_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "cli_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"/Users/filberthamijoyo/Downloads/qtrvsim/src/cli/chariohandler.h",
+			"Mu",
+			"EWIEGA46WW/moc_chariohandler.cpp",
+			null
+		],
+		[
+			"/Users/filberthamijoyo/Downloads/qtrvsim/src/cli/msgreport.h",
+			"Mu",
+			"EWIEGA46WW/moc_msgreport.cpp",
+			null
+		],
+		[
+			"/Users/filberthamijoyo/Downloads/qtrvsim/src/cli/reporter.h",
+			"Mu",
+			"EWIEGA46WW/moc_reporter.cpp",
+			null
+		],
+		[
+			"/Users/filberthamijoyo/Downloads/qtrvsim/src/cli/tracer.h",
+			"Mu",
+			"EWIEGA46WW/moc_tracer.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/Users/filberthamijoyo/Downloads/qtrvsim/build/src/cli/cli_autogen/include",
+	"MOC_COMPILATION_FILE" : "/Users/filberthamijoyo/Downloads/qtrvsim/build/src/cli/cli_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"APP_NAME=\"QtRVSim\"",
+		"APP_ORGANIZATION=\"FEE CTU\"",
+		"APP_ORGANIZATION_DOMAIN=\"https://github.com/cvut/qtrvsim\"",
+		"APP_VERSION=\"0.9.8\"",
+		"ENV_CONFIG_FILE_NAME=\"QTRVSIM_CONFIG_FILE\"",
+		"HAVE_CONFIG_H=1",
+		"QT_CORE_LIB",
+		"QT_DISABLE_DEPRECATED_BEFORE=0x050905",
+		"QT_NO_DEBUG",
+		"QT_NO_DEBUG_OUTPUT=1",
+		"__LIBELF_INTERNAL__"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/Users/filberthamijoyo/Downloads/qtrvsim/build/src/cli",
+		"/Users/filberthamijoyo/Downloads/qtrvsim/src/cli",
+		"/Users/filberthamijoyo/Downloads/qtrvsim/src",
+		"/Users/filberthamijoyo/Downloads/qtrvsim/src/machine",
+		"/Users/filberthamijoyo/Downloads/qtrvsim/external/libelf",
+		"/opt/homebrew/lib/QtCore.framework/Headers",
+		"/opt/homebrew/lib/QtCore.framework",
+		"/opt/homebrew/share/qt/mkspecs/macx-clang",
+		"/opt/homebrew/include",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1",
+		"/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include",
+		"/Library/Developer/CommandLineTools/usr/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT",
+		"Q_ENUM_NS"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/Library/Developer/CommandLineTools/usr/bin/c++",
+		"-std=gnu++17",
+		"-dM",
+		"-E",
+		"-c",
+		"/opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/Users/filberthamijoyo/Downloads/qtrvsim/build/src/cli/cli_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 8,
+	"PARSE_CACHE_FILE" : "/Users/filberthamijoyo/Downloads/qtrvsim/build/src/cli/CMakeFiles/cli_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/opt/homebrew/share/qt/libexec/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 7,
+	"SETTINGS_FILE" : "/Users/filberthamijoyo/Downloads/qtrvsim/build/src/cli/CMakeFiles/cli_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/Users/filberthamijoyo/Downloads/qtrvsim/src/cli/chariohandler.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/filberthamijoyo/Downloads/qtrvsim/src/cli/main.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/filberthamijoyo/Downloads/qtrvsim/src/cli/msgreport.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/filberthamijoyo/Downloads/qtrvsim/src/cli/reporter.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/filberthamijoyo/Downloads/qtrvsim/src/cli/tracer.cpp",
+			"Mu",
+			null
+		]
+	],
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

@@ -1,0 +1,264 @@
+{
+	"BUILD_DIR" : "/Users/filberthamijoyo/Downloads/qtrvsim/build/external/svgscene/svgscene_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/filberthamijoyo/Downloads/qtrvsim/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/filberthamijoyo/Downloads/qtrvsim/build/external/svgscene",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/filberthamijoyo/Downloads/qtrvsim/external/svgscene",
+	"CMAKE_EXECUTABLE" : "/opt/homebrew/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/Users/filberthamijoyo/Downloads/qtrvsim/external/svgscene/CMakeLists.txt",
+		"/opt/homebrew/lib/cmake/Qt6/Qt6ConfigVersion.cmake",
+		"/opt/homebrew/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake",
+		"/opt/homebrew/lib/cmake/Qt6/Qt6Config.cmake",
+		"/opt/homebrew/lib/cmake/Qt6/Qt6ConfigExtras.cmake",
+		"/opt/homebrew/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake",
+		"/opt/homebrew/lib/cmake/Qt6/Qt6Targets.cmake",
+		"/opt/homebrew/lib/cmake/Qt6/Qt6VersionlessTargets.cmake",
+		"/opt/homebrew/Cellar/qt/6.7.2_2/lib/cmake/Qt6/QtFeature.cmake",
+		"/opt/homebrew/share/cmake/Modules/CheckCXXCompilerFlag.cmake",
+		"/opt/homebrew/Cellar/qt/6.7.2_2/lib/cmake/Qt6/QtFeatureCommon.cmake",
+		"/opt/homebrew/Cellar/qt/6.7.2_2/lib/cmake/Qt6/QtPublicAppleHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.7.2_2/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.7.2_2/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.7.2_2/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.7.2_2/lib/cmake/Qt6/QtPublicExternalProjectHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.7.2_2/lib/cmake/Qt6/QtPublicFinalizerHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.7.2_2/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.7.2_2/lib/cmake/Qt6/QtPublicPluginHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.7.2_2/lib/cmake/Qt6/QtPublicTargetHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.7.2_2/lib/cmake/Qt6/QtPublicTestHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.7.2_2/lib/cmake/Qt6/QtPublicToolHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.7.2_2/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake",
+		"/opt/homebrew/share/cmake/Modules/CMakeFindDependencyMacro.cmake",
+		"/opt/homebrew/lib/cmake/Qt6/Qt6Dependencies.cmake",
+		"/opt/homebrew/lib/cmake/Qt6/Qt6ConfigVersion.cmake",
+		"/opt/homebrew/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake",
+		"/opt/homebrew/lib/cmake/Qt6/Qt6Config.cmake",
+		"/opt/homebrew/lib/cmake/Qt6/Qt6ConfigExtras.cmake",
+		"/opt/homebrew/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake",
+		"/opt/homebrew/lib/cmake/Qt6/Qt6Targets.cmake",
+		"/opt/homebrew/lib/cmake/Qt6/Qt6VersionlessTargets.cmake",
+		"/opt/homebrew/Cellar/qt/6.7.2_2/lib/cmake/Qt6/QtFeature.cmake",
+		"/opt/homebrew/share/cmake/Modules/CheckCXXCompilerFlag.cmake",
+		"/opt/homebrew/Cellar/qt/6.7.2_2/lib/cmake/Qt6/QtFeatureCommon.cmake",
+		"/opt/homebrew/Cellar/qt/6.7.2_2/lib/cmake/Qt6/QtPublicAppleHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.7.2_2/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.7.2_2/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.7.2_2/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.7.2_2/lib/cmake/Qt6/QtPublicExternalProjectHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.7.2_2/lib/cmake/Qt6/QtPublicFinalizerHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.7.2_2/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.7.2_2/lib/cmake/Qt6/QtPublicPluginHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.7.2_2/lib/cmake/Qt6/QtPublicTargetHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.7.2_2/lib/cmake/Qt6/QtPublicTestHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.7.2_2/lib/cmake/Qt6/QtPublicToolHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.7.2_2/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake",
+		"/opt/homebrew/share/cmake/Modules/CMakeFindDependencyMacro.cmake",
+		"/opt/homebrew/lib/cmake/Qt6/Qt6Dependencies.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "/Users/filberthamijoyo/Downloads/qtrvsim",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "/Users/filberthamijoyo/Downloads/qtrvsim/build/external/svgscene/svgscene_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "svgscene_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"/Users/filberthamijoyo/Downloads/qtrvsim/external/svgscene/src/svgscene/components/groupitem.h",
+			"MU",
+			"OVCMBRDRIM/moc_groupitem.cpp",
+			null
+		],
+		[
+			"/Users/filberthamijoyo/Downloads/qtrvsim/external/svgscene/src/svgscene/components/hyperlinkitem.h",
+			"MU",
+			"OVCMBRDRIM/moc_hyperlinkitem.cpp",
+			null
+		],
+		[
+			"/Users/filberthamijoyo/Downloads/qtrvsim/external/svgscene/src/svgscene/components/simpletextitem.h",
+			"MU",
+			"OVCMBRDRIM/moc_simpletextitem.cpp",
+			null
+		],
+		[
+			"/Users/filberthamijoyo/Downloads/qtrvsim/external/svgscene/src/svgscene/graphicsview/svggraphicsview.h",
+			"MU",
+			"J3QGBQDLL5/moc_svggraphicsview.cpp",
+			null
+		],
+		[
+			"/Users/filberthamijoyo/Downloads/qtrvsim/external/svgscene/src/svgscene/polyfills/qt5/qstringview.h",
+			"MU",
+			"OMR4WTIMV3/moc_qstringview.cpp",
+			null
+		],
+		[
+			"/Users/filberthamijoyo/Downloads/qtrvsim/external/svgscene/src/svgscene/polyfills/qt5/qwheelevent.h",
+			"MU",
+			"OMR4WTIMV3/moc_qwheelevent.cpp",
+			null
+		],
+		[
+			"/Users/filberthamijoyo/Downloads/qtrvsim/external/svgscene/src/svgscene/svgdocument.h",
+			"MU",
+			"OWAQZC3XRN/moc_svgdocument.cpp",
+			null
+		],
+		[
+			"/Users/filberthamijoyo/Downloads/qtrvsim/external/svgscene/src/svgscene/svggraphicsscene.h",
+			"MU",
+			"OWAQZC3XRN/moc_svggraphicsscene.cpp",
+			null
+		],
+		[
+			"/Users/filberthamijoyo/Downloads/qtrvsim/external/svgscene/src/svgscene/svghandler.h",
+			"MU",
+			"OWAQZC3XRN/moc_svghandler.cpp",
+			null
+		],
+		[
+			"/Users/filberthamijoyo/Downloads/qtrvsim/external/svgscene/src/svgscene/svgmetadata.h",
+			"MU",
+			"OWAQZC3XRN/moc_svgmetadata.cpp",
+			null
+		],
+		[
+			"/Users/filberthamijoyo/Downloads/qtrvsim/external/svgscene/src/svgscene/svgspec.h",
+			"MU",
+			"OWAQZC3XRN/moc_svgspec.cpp",
+			null
+		],
+		[
+			"/Users/filberthamijoyo/Downloads/qtrvsim/external/svgscene/src/svgscene/utils/logging.h",
+			"MU",
+			"THVCVUBA4R/moc_logging.cpp",
+			null
+		],
+		[
+			"/Users/filberthamijoyo/Downloads/qtrvsim/external/svgscene/src/svgscene/utils/memory_ownership.h",
+			"MU",
+			"THVCVUBA4R/moc_memory_ownership.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/Users/filberthamijoyo/Downloads/qtrvsim/build/external/svgscene/svgscene_autogen/include",
+	"MOC_COMPILATION_FILE" : "/Users/filberthamijoyo/Downloads/qtrvsim/build/external/svgscene/svgscene_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_DISABLE_DEPRECATED_BEFORE=0x050905",
+		"QT_GUI_LIB",
+		"QT_NO_DEBUG",
+		"QT_NO_DEBUG_OUTPUT=1",
+		"QT_WIDGETS_LIB"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/Users/filberthamijoyo/Downloads/qtrvsim/build/external/svgscene",
+		"/Users/filberthamijoyo/Downloads/qtrvsim/external/svgscene",
+		"/Users/filberthamijoyo/Downloads/qtrvsim/src",
+		"/Users/filberthamijoyo/Downloads/qtrvsim/src/machine",
+		"/Users/filberthamijoyo/Downloads/qtrvsim/external/svgscene/src",
+		"/Users/filberthamijoyo/Downloads/qtrvsim/external/svgscene/src/svgscene",
+		"/opt/homebrew/lib/QtCore.framework/Headers",
+		"/opt/homebrew/lib/QtCore.framework",
+		"/opt/homebrew/share/qt/mkspecs/macx-clang",
+		"/opt/homebrew/include",
+		"/opt/homebrew/lib/QtGui.framework/Headers",
+		"/opt/homebrew/lib/QtGui.framework",
+		"/opt/homebrew/lib/QtWidgets.framework/Headers",
+		"/opt/homebrew/lib/QtWidgets.framework",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include/c++/v1",
+		"/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/include",
+		"/Library/Developer/CommandLineTools/usr/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT",
+		"Q_ENUM_NS"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/Library/Developer/CommandLineTools/usr/bin/c++",
+		"-std=gnu++17",
+		"-dM",
+		"-E",
+		"-c",
+		"/opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/Users/filberthamijoyo/Downloads/qtrvsim/build/external/svgscene/svgscene_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 8,
+	"PARSE_CACHE_FILE" : "/Users/filberthamijoyo/Downloads/qtrvsim/build/external/svgscene/CMakeFiles/svgscene_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/opt/homebrew/share/qt/libexec/moc",
+	"QT_UIC_EXECUTABLE" : "/opt/homebrew/share/qt/libexec/uic",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 7,
+	"SETTINGS_FILE" : "/Users/filberthamijoyo/Downloads/qtrvsim/build/external/svgscene/CMakeFiles/svgscene_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/Users/filberthamijoyo/Downloads/qtrvsim/external/svgscene/src/svgscene/components/groupitem.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/filberthamijoyo/Downloads/qtrvsim/external/svgscene/src/svgscene/components/hyperlinkitem.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/filberthamijoyo/Downloads/qtrvsim/external/svgscene/src/svgscene/components/simpletextitem.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/filberthamijoyo/Downloads/qtrvsim/external/svgscene/src/svgscene/graphicsview/svggraphicsview.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/filberthamijoyo/Downloads/qtrvsim/external/svgscene/src/svgscene/svgdocument.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/filberthamijoyo/Downloads/qtrvsim/external/svgscene/src/svgscene/svggraphicsscene.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/filberthamijoyo/Downloads/qtrvsim/external/svgscene/src/svgscene/svghandler.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/filberthamijoyo/Downloads/qtrvsim/external/svgscene/src/svgscene/svgmetadata.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

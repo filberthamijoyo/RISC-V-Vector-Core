@@ -1,0 +1,27 @@
+{
+	"BUILD_DIR" : "/Users/filberthamijoyo/Downloads/qtrvsim/build/src/gui/gui_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/filberthamijoyo/Downloads/qtrvsim/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/filberthamijoyo/Downloads/qtrvsim/build/src/gui",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/filberthamijoyo/Downloads/qtrvsim/src/gui",
+	"CMAKE_SOURCE_DIR" : "/Users/filberthamijoyo/Downloads/qtrvsim",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Unix Makefiles",
+	"INCLUDE_DIR" : "/Users/filberthamijoyo/Downloads/qtrvsim/build/src/gui/gui_autogen/include",
+	"INPUTS" : 
+	[
+		"/Users/filberthamijoyo/Downloads/qtrvsim/src/gui/windows/coreview/schemas/simple.svg",
+		"/Users/filberthamijoyo/Downloads/qtrvsim/src/gui/windows/coreview/schemas/forwarding.svg",
+		"/Users/filberthamijoyo/Downloads/qtrvsim/src/gui/windows/coreview/schemas/pipeline.svg"
+	],
+	"LOCK_FILE" : "/Users/filberthamijoyo/Downloads/qtrvsim/build/src/gui/CMakeFiles/gui_autogen.dir/AutoRcc_schemas_HOZFTWX64X_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "schemas" ],
+	"OUTPUT_CHECKSUM" : "HOZFTWX64X",
+	"OUTPUT_NAME" : "qrc_schemas.cpp",
+	"RCC_EXECUTABLE" : "/opt/homebrew/share/qt/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/Users/filberthamijoyo/Downloads/qtrvsim/build/src/gui/CMakeFiles/gui_autogen.dir/AutoRcc_schemas_HOZFTWX64X_Used.txt",
+	"SOURCE" : "/Users/filberthamijoyo/Downloads/qtrvsim/src/gui/windows/coreview/schemas/schemas.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}
